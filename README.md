@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm Trisha HR</h1>
 <h3 align="center">Computer Science Student</h3>
 
 - 🌱 I’m currently in Final year Engineering 
