@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently in Final year Engineering 
 
-- 📑 Check out my resume here - [My Resume](https://drive.google.com/file/d/1amlaxDWEi0tZD77jSPFsdSV9cJvf3w7D/view?usp=sharing)
+- 📑 Check out my resume here - [My Resume](https://drive.google.com/file/d/101_eE3oZNRmZkXhLGEhvCzZ_I6yIt-yc/view?usp=drive_link)
 
 - 💻 All of my projects are available on github
 
